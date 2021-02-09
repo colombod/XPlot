@@ -6,8 +6,7 @@
     <PackageId>XPlot.Plotly</PackageId>
     <IsPackable>true</IsPackable>
     <PackageVersion>4.0.0-beta1</PackageVersion>
-    <PackageLicense>
-    </PackageLicense>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://fslab.org/XPlot/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/fslaborg/XPlot</RepositoryUrl>
